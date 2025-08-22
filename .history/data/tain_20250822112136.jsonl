@@ -1,1 +1,0 @@
-prompt = f"Context: {example['context']}\n\nQuestion: {example['question']}\n\nAnswer:"
